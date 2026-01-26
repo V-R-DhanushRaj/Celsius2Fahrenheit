@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define EXIT_SUCCESS 0
+#define EXIT_SUCCESS 0 \\didnt get used since the main function is not returning integers or any type of status information.
 float inputA;
 float celsius;
 float fahrenheit;
